@@ -1,0 +1,5 @@
+C:\Users\fede2\source\repos\113893 - Ejercicios\113893 - Ejercicios\obj\Debug\113893 - Ejercicios.csproj.AssemblyReference.cache
+C:\Users\fede2\source\repos\113893 - Ejercicios\113893 - Ejercicios\obj\Debug\113893 - Ejercicios.csproj.SuggestedBindingRedirects.cache
+C:\Users\fede2\source\repos\113893 - Ejercicios\113893 - Ejercicios\obj\Debug\_113893___Ejercicios.Properties.Resources.resources
+C:\Users\fede2\source\repos\113893 - Ejercicios\113893 - Ejercicios\obj\Debug\113893 - Ejercicios.csproj.GenerateResource.cache
+C:\Users\fede2\source\repos\113893 - Ejercicios\113893 - Ejercicios\obj\Debug\113893 - Ejercicios.csproj.CoreCompileInputs.cache
